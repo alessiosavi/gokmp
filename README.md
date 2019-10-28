@@ -2,6 +2,10 @@
 
 String-matching in Golang using the Knuth–Morris–Pratt algorithm (KMP).
 
+[![Go Report Card](https://goreportcard.com/badge/github.com/alessiosavi/gokmp)](https://goreportcard.com/report/github.com/alessiosavi/gokmp) [![GoDoc](https://godoc.org/github.com/alessiosavi/gokmp?status.svg)](https://godoc.org/github.com/alessiosavi/gokmp) [![Version](https://img.shields.io/github/v/tag/alessiosavi/gokmp)](https://img.shields.io/github/v/tag/alessiosavi/gokmp) [![Code size](https://img.shields.io/github/languages/code-size/alessiosavi/gokmp)](https://img.shields.io/github/languages/code-size/alessiosavi/gokmp) [![Repo size](https://img.shields.io/github/repo-size/alessiosavi/gokmp)](https://img.shields.io/github/repo-size/alessiosavi/gokmp) [![Issue open](https://img.shields.io/github/issues/alessiosavi/gokmp)](https://img.shields.io/github/issues/alessiosavi/gokmp)
+[![Issue closed](https://img.shields.io/github/issues-closed/alessiosavi/gokmp)](https://img.shields.io/github/issues-closed/alessiosavi/gokmp)
+
+
 ## Disclaimer
 
 This library was written as part of my Master's Thesis and should be used as a helpful implementation reference for people interested in the Knuth-Morris-Pratt algorithm than as a performance string searching library.
